@@ -1,4 +1,5 @@
-print("Roí Eleazar Rosales Arriola;  Carné:1519922")
+print("Roí Eleazar Rosales Arriola")
+print("Carné: 1519922")
 
 # Aui inicia un contador en 0 que va ir sumando el número
 numeros_acumulados = 0
