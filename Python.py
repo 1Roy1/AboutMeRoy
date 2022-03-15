@@ -14,6 +14,8 @@ while numero > 0:
 else:
     print("¡OH NO, INGRESO UN NÚMERO NEGATIVO! \n")
     print("Su sumatoria positiva es: ", numeros_acumulados)
+    
+print("\nFelicidades, va muy bien con su evaluación parcial. Att. Ing. Miguel")
 
 
 print("Roí Eleazar Rosales Arriola")
