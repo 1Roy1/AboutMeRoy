@@ -34,6 +34,3 @@ print("Hello, World!")
 - Hacer Ejercicio
 - Escuchar mpusica
 - Ayudar a las personas que lo necesitan
-
-
-
