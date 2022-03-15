@@ -26,7 +26,7 @@ if b > a:
 print("Hello, World!") 
 
 ###### Mención a un compañero
-@Abelillo14K Este pana es un master, todo un capo el, escribanle al priv para que les realice transes :rofl:
+@github/Abelillo14K Este pana es un master, todo un capo el, escribanle al priv para que les realice transes :rofl:
 
 ## Mis hobbies
 -  Jugar videojuegos
